@@ -1,6 +1,6 @@
-import re
+锘縤mport re
 
-# 去除标题中的非法字符 (Windows)
+# 鍘婚櫎鏍囬涓殑闈炴硶瀛楃 (Windows)
 def validateTitle(title):
     rstr = r"[\/\\\:\*\?\"\<\>\|]"  # '/\:*?"<>|'
     new_title = re.sub(rstr, "", title)

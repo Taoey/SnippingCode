@@ -1,12 +1,12 @@
-'''
-1.ÅäÖÃºÃ»ğºüµÄÇı¶¯£¨°ÑÇı¶¯·ÅÔÚºÍfirefox.exeÍ¬Ò»Ä¿Â¼ÏÂ£¬È»ºó°ÑÕâ¸öÎÄ¼şËùÔÚµÄÄ¿Â¼Åä³É»·¾³±äÁ¿  £¬±ÈÈçÕâ¸ö³ÌĞòËùÔÚµÄ»·¾³Ò»¶¨ÅäÖÃµÄÊÇ"D:\CCApplication\Mozilla Firefox"£©£¨WindowsÏµÍ³ Python3£©
+ï»¿'''
+1.é…ç½®å¥½ç«ç‹çš„é©±åŠ¨ï¼ˆæŠŠé©±åŠ¨æ”¾åœ¨å’Œfirefox.exeåŒä¸€ç›®å½•ä¸‹ï¼Œç„¶åæŠŠè¿™ä¸ªæ–‡ä»¶æ‰€åœ¨çš„ç›®å½•é…æˆç¯å¢ƒå˜é‡  ï¼Œæ¯”å¦‚è¿™ä¸ªç¨‹åºæ‰€åœ¨çš„ç¯å¢ƒä¸€å®šé…ç½®çš„æ˜¯"D:\CCApplication\Mozilla Firefox"ï¼‰ï¼ˆWindowsç³»ç»Ÿ Python3ï¼‰
 
-2.ÏÂÔØpythonµÄseleniumÄ£¿é Ê¹ÓÃ pip install selenium ¼´¿É
+2.ä¸‹è½½pythonçš„seleniumæ¨¡å— ä½¿ç”¨ pip install selenium å³å¯
 
-3.ÔËĞĞÏÂÃæµÄ´úÂë£¬Èç¹û¿ÉÒÔ´ò¿ª»ğºüä¯ÀÀÆ÷£¬ÔòÄãµÄ»·¾³ÅäÖÃºÃÁËÅ·
+3.è¿è¡Œä¸‹é¢çš„ä»£ç ï¼Œå¦‚æœå¯ä»¥æ‰“å¼€ç«ç‹æµè§ˆå™¨ï¼Œåˆ™ä½ çš„ç¯å¢ƒé…ç½®å¥½äº†æ¬§
 
-×¢Òâ£º
-firefox 47ÒÔÉÏ°æ±¾£¬ĞèÒªÏÂÔØµÚÈı·½driver£¬¼´geckodriver£¬ÔÚhttp://docs.seleniumhq.org/download/µÄThird Party Drivers, Bindings, and PluginsÏÂÃæÕÒµ½Mozilla GeckoDriver
+æ³¨æ„ï¼š
+firefox 47ä»¥ä¸Šç‰ˆæœ¬ï¼Œéœ€è¦ä¸‹è½½ç¬¬ä¸‰æ–¹driverï¼Œå³geckodriverï¼Œåœ¨http://docs.seleniumhq.org/download/çš„Third Party Drivers, Bindings, and Pluginsä¸‹é¢æ‰¾åˆ°Mozilla GeckoDriver
 '''
 
 import os
