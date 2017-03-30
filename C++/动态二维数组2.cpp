@@ -14,9 +14,6 @@ int main(){
 
 
 	//使用空间  
-	for(int j = 0;j < row;j++)  
-		for(int k = 0;k< column;k++)  
-			a[j][k] = rand()%100;  
 
 	for(int j = 0;j < row;j++)  
 	{  
